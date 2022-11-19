@@ -3,6 +3,6 @@ Playing card back series non-fungible asset(NFA) by Azylem
 
 Copyright 2022 Azylem. All rights reserved.
 
-SCID: c024d30bbfcda19a3f0adaf9717ccc7043d561f6f3e79f5051a0b6100f255e9d
+SCID: d6d27c5c9a30251877859c60ed8fb91200f67faff1b9a71942e8c14c9510acb8
 
 Creator: dero1qyfk5w2rvqpl9kzfd7fpteyp2k362y6audydcu2qrgcmj6vtasfkgqq9704gn
